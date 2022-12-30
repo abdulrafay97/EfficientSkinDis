@@ -17,9 +17,9 @@ st.header('Skin Disease Classifier')
 
 #Load Model
 def effNetb2():
-    self.model = models.efficientnet_b2(pretrained=False).to(device)
+    model = models.efficientnet_b2(pretrained=False).to(device)
     in_features = 1024
-    self.model._fc = nn.Sequential(
+    model._fc = nn.Sequential(
         nn.BatchNorm1d(num_features=in_features),    
         nn.Linear(in_features, 512),
         nn.ReLU(),
