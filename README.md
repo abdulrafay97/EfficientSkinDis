@@ -8,3 +8,14 @@
 
 ## Dataset 
 The dataset is available to access the 70:30 split on the [Drive](https://drive.google.com/drive/folders/1AiDVpgy-o4ZLKXZ_yqnWWEHFYhCbrfP1?usp=share_link).
+### Samples of Dataset
+|              |              |              |              |              |              |              |              |
+|              |              |              |              |              |              |              |              |
+|              |              |              |              |              |              |              |              |
+|              |              |              |              |              |              |              |              |
+|              |              |              |              |              |              |              |              |
+|              |              |              |              |              |              |              |              |
+|              |              |              |              |              |              |              |              |
+|              |              |              |              |              |              |              |              |
+|              |              |              |              |              |              |              |              |
+|              |              |              |              |              |              |              |              |
