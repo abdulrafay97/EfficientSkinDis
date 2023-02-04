@@ -1,7 +1,7 @@
 # 31-Skin-Disease-Classification-FineTuned-EfficientNet-B2
 
 [![PyTorch](https://img.shields.io/badge/Framework-PyTorch-79FFE1)](https://pytorch.org)
-![Deep Learning](https://www.simplilearn.com/tutorials/deep-learning-tutorial/what-is-deep-learning)
+![Deep Learning](https://img.shields.io/badge/Type-Deep%20Learning-79FFE1)
 
 
 ## Dataset 
