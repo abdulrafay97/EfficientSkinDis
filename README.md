@@ -1,1 +1,1 @@
-# Skin_D
+# 31-Skin-Disease-Classification-FineTuned-EfficientNet-B2
