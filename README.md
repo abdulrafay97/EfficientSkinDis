@@ -6,8 +6,9 @@
 [![Model](https://img.shields.io/badge/Model-EfficientNet%20B2-79FFB2)](https://pytorch.org/vision/main/models/generated/torchvision.models.efficientnet_b2.html)
 
 
-## Dataset 
-The dataset is available to access the 70:30 split on the [Drive](https://drive.google.com/drive/folders/1AiDVpgy-o4ZLKXZ_yqnWWEHFYhCbrfP1?usp=share_link).
+## Dataset
+
+The dataset is available to access the 70:30 split on the [![Dataset](https://img.shields.io/badge/Dataset-Drive-FFFFF)](https://drive.google.com/drive/folders/1AiDVpgy-o4ZLKXZ_yqnWWEHFYhCbrfP1?usp=share_link).
 
 ### Sample-Dataset
 ![](Sample-Images/Capture.PNG)
