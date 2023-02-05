@@ -12,8 +12,8 @@ warnings.filterwarnings('ignore')
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
 icon = Image.open('skin.jpg')
-st.set_page_config(page_title='SkinD-Classifier', page_icon = icon)
-st.header('Skin Disease Classifier')
+st.set_page_config(page_title='EfficientSkinDis', page_icon = icon)
+st.header('EfficientSkinDis WebServer')
 
 #Load Model
 def effNetb2():
