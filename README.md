@@ -1,4 +1,4 @@
-# 31-Skin-Disease-Classification-FineTuned-EfficientNet-B2
+# EfficientSkinDis
 
 [![PyTorch](https://img.shields.io/badge/Framework-PyTorch-79FEE1)](https://pytorch.org)
 ![Deep Learning](https://img.shields.io/badge/Type-Deep%20Learning-FFAE42)
