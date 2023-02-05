@@ -9,7 +9,7 @@
 This repo contains source coude for *EfficientSkinDis* webserver, developed and deployed using Streamlit, which can be accessed on [![Web-Server](https://img.shields.io/badge/WebServer-Streamlit-808080)](https://abdulrafay97-skin-d-app-m03hjf.streamlit.app/)
 
 ## Dataset
-The dataset is available to access the 70:30 split on the [![Dataset](https://img.shields.io/badge/Dataset-Drive-FFFFF)](https://drive.google.com/drive/folders/1AiDVpgy-o4ZLKXZ_yqnWWEHFYhCbrfP1?usp=share_link)
+The dataset is available to access the 80:20 split on the [![Dataset](https://img.shields.io/badge/Dataset-Drive-FFFFF)](https://drive.google.com/drive/folders/1AiDVpgy-o4ZLKXZ_yqnWWEHFYhCbrfP1?usp=share_link)
 
 ### Sample-Dataset
 ![](Sample-Images/Capture.PNG)
