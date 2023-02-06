@@ -6,7 +6,7 @@
 [![Model](https://img.shields.io/badge/Model-EfficientNet%20B2-79FFB2)](https://pytorch.org/vision/main/models/generated/torchvision.models.efficientnet_b2.html)
 
 ## Web-Server
-This repo contains source coude for *EfficientSkinDis* webserver, developed and deployed using Streamlit, which can be accessed on [![Web-Server](https://img.shields.io/badge/WebServer-Streamlit-808080)](https://abdulrafay97-efficientskindis-app-mil0im.streamlit.app/)
+This repo contains source coude for *EfficientSkinDis* webserver, developed and deployed using Streamlit, which can be accessed on [![Web-Server](https://img.shields.io/badge/WebServer-Streamlit-808080)](https://abdulrafay97-efficientskindis-app-ooncon.streamlit.app/)
 
 ## Dataset
 The dataset is available to access the 80:20 split on the [![Dataset](https://img.shields.io/badge/Dataset-Drive-FFFFF)](https://drive.google.com/drive/folders/1AiDVpgy-o4ZLKXZ_yqnWWEHFYhCbrfP1?usp=share_link)
