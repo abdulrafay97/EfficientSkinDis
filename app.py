@@ -6,7 +6,7 @@ from torch.nn import functional as F
 from torchvision import models, transforms
 import torch.nn as nn
 import streamlit as st
-from .utils import *
+from utils import *
 import warnings
 warnings.filterwarnings('ignore')
 
